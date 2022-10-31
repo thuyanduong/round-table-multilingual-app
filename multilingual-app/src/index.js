@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import '../src/css/counter.css';
-import '../src/css/text.css';
+import '../src/css/gmtext.css';
 import App from './App';
 
 
